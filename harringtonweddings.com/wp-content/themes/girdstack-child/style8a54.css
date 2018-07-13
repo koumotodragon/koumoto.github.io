@@ -1,0 +1,43 @@
+/*
+ Theme Name:   Gridstack Child
+ Theme URI:    http://ianhvideo.com
+ Description:  Gridstack Child Theme
+ Author:       Jake Craigmile
+ Author URI:   http://jakecraigmile.com
+ Template:     gridstack
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, responsive-layout
+ Text Domain:  gridstack-child
+*/
+
+#social {
+	background: #333;
+	padding: 1em 0 .5em;
+	text-align: center;
+	width: 100%;
+}
+
+#social a {
+	margin: 0 .5em;
+}
+
+.tw-social-icon.yelp {
+	background-image: url(icons/yelp.svg);
+}
+
+.tw-social-icon.knot {
+	background-image: url(icons/knot.svg);
+	background-size: 14px !important;
+}
+
+.tw-social-icon.weddingwire {
+	background-image: url(icons/weddingwire.svg);
+	background-size: 26px !important;
+
+}
+
+#filters {
+	display: none;
+}

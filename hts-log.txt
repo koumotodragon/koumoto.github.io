@@ -1,0 +1,46 @@
+HTTrack3.48-21+htsswf+htsjava launched on Thu, 12 Jul 2018 03:45:38 at https://harringtonweddings.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://harringtonweddings.com -O1 "D:\PA jobs\Bence's website download project\Harringtonwedding" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:45:41	Warning: 	Note: due to https://harringtonweddings.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+03:47:12	Error: 	"Not Found" (404) at link https://harringtonweddings.com/wp-content/themes/gridstack/background.png (from https://harringtonweddings.com/wp-content/themes/gridstack/style.css?ver=4.9.7)
+03:47:12	Error: 	"Not Found" (404) at link https://harringtonweddings.com/wp-content/themes/gridstack/images/sprites-nivo.png (from https://harringtonweddings.com/wp-content/themes/gridstack/style.css?ver=4.9.7)
+03:47:12	Error: 	"Not Found" (404) at link https://harringtonweddings.com/wp-content/themes/gridstack/images/sprites-nivo-white.png (from https://harringtonweddings.com/wp-content/themes/gridstack/style.css?ver=4.9.7)
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=932
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=932 to https://harringtonweddings.com/last-minute-wedding-videographer-san-diego/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=116
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=116 to https://harringtonweddings.com/last-minute-wedding-photographer-san-diego/
+03:47:12	Error: 	"Not Found" (404) at link https://harringtonweddings.com/portfolio/feed/ (from https://harringtonweddings.com/portfolio/)
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=9
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=9 to https://harringtonweddings.com/portfolio/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=25
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=25 to https://harringtonweddings.com/team/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=11
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=11 to https://harringtonweddings.com/contact/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=975
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=975 to https://harringtonweddings.com/portfolio/danielle-chris/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=976
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=976 to https://harringtonweddings.com/portfolio/katie-ryan/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=977
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=977 to https://harringtonweddings.com/portfolio/vicky-brent/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=978
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=978 to https://harringtonweddings.com/portfolio/nicole-jeremiah/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=979
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=979 to https://harringtonweddings.com/portfolio/annie-jeff/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=692
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=692 to https://harringtonweddings.com/portfolio/jennell-terry/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=577
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=577 to https://harringtonweddings.com/portfolio/maegen-and-clint/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=546
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=546 to https://harringtonweddings.com/portfolio/cassidy-david/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=545
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=545 to https://harringtonweddings.com/portfolio/ashley-charlie/
+03:47:12	Warning: 	Moved Permanently for https://harringtonweddings.com/?p=576
+03:47:12	Warning: 	File has moved from https://harringtonweddings.com/?p=576 to https://harringtonweddings.com/portfolio/melanie-and-phillip/
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 34 seconds : 223 links scanned, 203 files written (6789478 bytes overall) [5948710 bytes received at 63284 bytes/sec], 1400138 bytes transferred using HTTP compression in 90 files, ratio 29%, 12.6 requests per connection
+(4 errors, 31 warnings, 0 messages)
